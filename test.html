@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script>
+        let obj={
+            x:20,
+            y:30,
+            func:function xyz(){
+                console.log('I am called');
+            }
+        }
+
+        document.addEventListener('click',function(){
+            alert('hello')
+        })
+
+        let myfunc=(num)=>{
+            console.log('Arrow fun..'+this)
+        }
+
+        myfunc(2);
+    </script>
+</head>
+<body>
+    <h1>Test JavaScript</h1>
+</body>
+</html>
