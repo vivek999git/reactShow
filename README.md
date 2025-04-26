@@ -13,6 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 3 check npm install
 	>>npm -v
+    
 4.	To Create React App 
 	npm install -g create-react-app
 	or 
