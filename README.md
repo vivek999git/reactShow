@@ -4,21 +4,23 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Steps to Use
 
-1.	Install NodeJS and NPM:
+1)	Install NodeJS and NPM:
 	Go to https://nodejs.org/en/
 
 
-2.	Check node install
+2)	Check node install
 	>>node –v
 
-3 check npm install
+3) check npm install
 	>>npm -v
+
     
-4.	To Create React App 
+4)	To Create React App 
 	npm install -g create-react-app
 	or 
 	npx create-react-app my-app
-	
+
+ 
 5)npm install //- to install node_module folder again
 
 6) in vs code 
